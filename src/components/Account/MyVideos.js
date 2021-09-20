@@ -15,7 +15,7 @@ export default function MyVideos() {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -27,7 +27,7 @@ export default function MyVideos() {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -39,7 +39,7 @@ export default function MyVideos() {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -50,7 +50,7 @@ export default function MyVideos() {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"

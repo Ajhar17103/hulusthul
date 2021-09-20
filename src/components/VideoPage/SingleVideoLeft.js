@@ -16,7 +16,7 @@ const SingleVideoLeft = () => {
 
 				<AuthorBox
 					subscriberCount="1.4M"
-					imgSrc="/img/s2.jpg"
+					imgSrc="img/s2.jpg"
 					channelName="Osahan Channel"
 					verified
 					publishedOn="Aug 10, 2020"

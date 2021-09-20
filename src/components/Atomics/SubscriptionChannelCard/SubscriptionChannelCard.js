@@ -35,7 +35,7 @@ export default function SubscriptionChannelCard({
 			<div className="channels-card">
 				<div className="channels-card-image">
 					<a href="#">
-						<img className="img-fluid" src="/img/s1.jpg" alt="" />
+						<img className="img-fluid" src="img/s1.jpg" alt="" />
 					</a>
 					<div className="channels-card-image-btn">
 						<Button

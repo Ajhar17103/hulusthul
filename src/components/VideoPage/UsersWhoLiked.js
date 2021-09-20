@@ -22,7 +22,7 @@ function AvatarTooltip({ title }) {
 		<>
 			<OverlayTrigger placement="top" overlay={renderTooltip}>
 				<a href="#" title="">
-					<img className="total-like-user" src="img/s1.png" alt="" />
+					<img className="total-like-user" src="img/s1.jpg" alt="" />
 				</a>
 			</OverlayTrigger>
 		</>

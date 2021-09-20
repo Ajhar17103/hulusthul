@@ -34,7 +34,7 @@ const VideoPage = () => {
 							<Col md={4}>
 								<div className="video-slider-right-list">
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="Here are many variati of passages of Lorem"
 										views="1.8M"
@@ -43,7 +43,7 @@ const VideoPage = () => {
 										verified
 									/>
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="Duis aute irure dolor in reprehenderit in."
 										views="1.8M"
@@ -53,7 +53,7 @@ const VideoPage = () => {
 										verified
 									/>
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="Culpa qui officia deserunt mollit anim"
 										views="1.8M"
@@ -61,7 +61,7 @@ const VideoPage = () => {
 										videoCategory="Education"
 									/>
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="Deserunt mollit anim id est laborum."
 										views="1.8M"
@@ -70,7 +70,7 @@ const VideoPage = () => {
 										verified
 									/>
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="Exercitation ullamco laboris nisi ut."
 										views="1.8M"
@@ -79,7 +79,7 @@ const VideoPage = () => {
 										verified
 									/>
 									<VideoCardList
-										imgSrc="img/v1.png"
+										imgSrc="img/v4.jpg"
 										time="3:50"
 										videoTitle="There are many variations of passages of Lorem"
 										views="1.8M"

@@ -154,7 +154,7 @@ const Navigation = ({ props }) => {
 					<NavDropdown
 						title={
 							<>
-								<img src="/img/s2.jpg" alt="Avatar" />
+								<img src="img/s2.jpg" alt="Avatar" />
 								<span className="d-none d-md-inline">
 									{" "}
 									Osahan

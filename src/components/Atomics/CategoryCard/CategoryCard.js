@@ -10,7 +10,7 @@ export default function CategoryCard({
 		<>
 			<div className="category-item mt-0 mb-0">
 				<a href={href}>
-					<img className="img-fluid" src="/img/s1.jpg" alt="" />
+					<img className="img-fluid" src="img/s1.jpg" alt="" />
 					<h6>
 						{name} {verified ? <VerifiedTooltip /> : ""}
 					</h6>

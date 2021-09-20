@@ -8,25 +8,25 @@ const ChannelSidebarList = () => {
 				<ul>
 					<ListChannel
 						href="/subscriptions"
-						imgSrc="/img/s1.jpg"
+						imgSrc="img/s1.jpg"
 						label="Your Life"
 					/>
 
 					<ListChannel
 						href="/subscriptions"
-						imgSrc="/img/s1.jpg"
+						imgSrc="img/s1.jpg"
 						label="Unboxing"
 						labelBadge="warning"
 						badgeValue="2"
 					/>
 					<ListChannel
 						href="/subscriptions"
-						imgSrc="/img/s1.jpg"
+						imgSrc="img/s1.jpg"
 						label="Product / Service"
 					/>
 					<ListChannel
 						href="/subscriptions"
-						imgSrc="/img/s1.jpg"
+						imgSrc="img/s1.jpg"
 						label="Gaming"
 					/>
 				</ul>

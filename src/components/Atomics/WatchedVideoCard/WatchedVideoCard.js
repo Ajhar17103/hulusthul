@@ -13,12 +13,12 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 export default function WatchedVideoCard({
-	iconHref = "#",
-	imgHref = "#",
+	iconHref = "/video-page",
+	imgHref = "/video-page",
 	imgSrc,
 	imgAlt = "",
 	time = "-:-",
-	videoTitle = "#",
+	videoTitle = "/video-page",
 	videoTitleHref,
 	views,
 	timeAgo,
@@ -32,10 +32,10 @@ export default function WatchedVideoCard({
 			<Col xl={3} sm={6} className="mb-3">
 				<div className="video-card history-video">
 					<div className="video-card-image">
-						<a className="video-close" href="#">
+						<a className="video-close"  >
 							<FontAwesomeIcon icon={faTimesCircle} />
 						</a>
-						<a className="play-icon" href="#">
+						<a className="play-icon" href={iconHref}>
 							<FontAwesomeIcon icon={faPlayCircle} />
 						</a>
 						<a href={imgHref}>

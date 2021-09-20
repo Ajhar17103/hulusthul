@@ -21,7 +21,7 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -32,7 +32,7 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -41,54 +41,7 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
-								views="1.4M"
-								channelName="Channel Name"
-								subscriberCount="382,323"
-								isSubscribed
-								verified
-							/>
-						</Col>
-
-						<Col xl={3} sm={6} className="mb-3">
-							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
-								views="1.4M"
-								channelName="Channel Name"
-								subscriberCount="382,323"
-							/>
-						</Col>
-
-						<Col xl={3} sm={6} className="mb-3">
-							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
-								views="1.4M"
-								channelName="Channel Name"
-								subscriberCount="382,323"
-							/>
-						</Col>
-
-						<Col xl={3} sm={6} className="mb-3">
-							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
-								views="1.4M"
-								channelName="Channel Name"
-								subscriberCount="382,323"
-							/>
-						</Col>
-
-						<Col xl={3} sm={6} className="mb-3">
-							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
-								views="1.4M"
-								channelName="Channel Name"
-								subscriberCount="382,323"
-							/>
-						</Col>
-
-						<Col xl={3} sm={6} className="mb-3">
-							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -99,7 +52,43 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
+								views="1.4M"
+								channelName="Channel Name"
+								subscriberCount="382,323"
+							/>
+						</Col>
+
+						<Col xl={3} sm={6} className="mb-3">
+							<SubscriptionChannelCard
+								imgSrc="img/s1.jpg"
+								views="1.4M"
+								channelName="Channel Name"
+								subscriberCount="382,323"
+							/>
+						</Col>
+
+						<Col xl={3} sm={6} className="mb-3">
+							<SubscriptionChannelCard
+								imgSrc="img/s1.jpg"
+								views="1.4M"
+								channelName="Channel Name"
+								subscriberCount="382,323"
+							/>
+						</Col>
+
+						<Col xl={3} sm={6} className="mb-3">
+							<SubscriptionChannelCard
+								imgSrc="img/s1.jpg"
+								views="1.4M"
+								channelName="Channel Name"
+								subscriberCount="382,323"
+							/>
+						</Col>
+
+						<Col xl={3} sm={6} className="mb-3">
+							<SubscriptionChannelCard
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -110,7 +99,18 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
+								views="1.4M"
+								channelName="Channel Name"
+								subscriberCount="382,323"
+								isSubscribed
+								verified
+							/>
+						</Col>
+
+						<Col xl={3} sm={6} className="mb-3">
+							<SubscriptionChannelCard
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -119,7 +119,7 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
@@ -128,7 +128,7 @@ const Subscriptions = () => {
 
 						<Col xl={3} sm={6} className="mb-3">
 							<SubscriptionChannelCard
-								imgSrc="/img/s1.jpg"
+								imgSrc="img/s1.jpg"
 								views="1.4M"
 								channelName="Channel Name"
 								subscriberCount="382,323"
