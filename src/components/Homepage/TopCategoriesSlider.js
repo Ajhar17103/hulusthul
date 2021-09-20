@@ -101,33 +101,33 @@ export default function TopCategoriesSlider() {
 					views="74,853"
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Gaming"
 					views="74,853"
 					verified
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Technology Tutorials"
 					views="74,853"
 				/>
-				<Slide imgSrc="/img/s1.jpg" label="Singing" views="74,853" />
-				<Slide imgSrc="/img/s1.jpg" label="Cooking" views="74,853" />
-				<Slide imgSrc="/img/s1.jpg" label="Travelling" views="74,853" />
-				<Slide imgSrc="/img/s1.jpg" label="Education" views="74,853" />
+				<Slide imgSrc="img/s1.jpg" label="Singing" views="74,853" />
+				<Slide imgSrc="img/s1.jpg" label="Cooking" views="74,853" />
+				<Slide imgSrc="img/s1.jpg" label="Travelling" views="74,853" />
+				<Slide imgSrc="img/s1.jpg" label="Education" views="74,853" />
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Noodles, Sauces & Instant Food"
 					views="74,853"
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Comedy"
 					views="74,853"
 					verified
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Lifestyle Advice"
 					views="74,853"
 				/>
