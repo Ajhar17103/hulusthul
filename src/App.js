@@ -108,6 +108,10 @@ function Content(props) {
 						<Route exact path="/shop">
 						 <Shop/>
 						</Route>
+						<Route exact path="/video-page">
+						 
+						 <VideoPage/>
+						</Route>
 
 						<Route path="*" component={FourZeroFour} />
 					</Switch>

@@ -11,6 +11,7 @@ import {
 	faTimesCircle,
 	faCalendarAlt,
 } from "@fortawesome/free-solid-svg-icons";
+import {Link} from "react-router-dom"
 
 export default function WatchedVideoCard({
 	iconHref = "/video-page",
@@ -35,9 +36,9 @@ export default function WatchedVideoCard({
 						<a className="video-close"  >
 							<FontAwesomeIcon icon={faTimesCircle} />
 						</a>
-						<a className="play-icon" href={iconHref}>
+						<Link className="play-icon" to={iconHref}>
 							<FontAwesomeIcon icon={faPlayCircle} />
-						</a>
+						</Link>
 						<a href={imgHref}>
 							<img
 								className="img-fluid"
