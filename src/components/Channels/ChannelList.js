@@ -16,7 +16,7 @@ const ChannelList = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<ChannelCard
-							imgSrc="/img/s1.jpg"
+							imgSrc="img/s1.jpg"
 							views="1.4M"
 							channelName="Channel Name"
 							subscriberCount="382,323"
@@ -25,7 +25,7 @@ const ChannelList = () => {
 					</Col>
 					<Col xl={3} sm={6} className="mb-3">
 						<ChannelCard
-							imgSrc="/img/s1.jpg"
+							imgSrc="img/s1.jpg"
 							views="1.4M"
 							channelName="Channel Name"
 							subscriberCount="382,323"
@@ -34,72 +34,7 @@ const ChannelList = () => {
 					</Col>
 					<Col xl={3} sm={6} className="mb-3">
 						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							verified
-							isSubscribed
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
-							views="1.4M"
-							channelName="Channel Name"
-							subscriberCount="382,323"
-							outline
-						/>
-					</Col>
-					<Col xl={3} sm={6} className="mb-3">
-						<ChannelCard
-							imgSrc="/img/s1.jpg"
+							imgSrc="img/s1.jpg"
 							views="1.4M"
 							channelName="Channel Name"
 							subscriberCount="382,323"
@@ -110,7 +45,7 @@ const ChannelList = () => {
 					</Col>
 					<Col xl={3} sm={6} className="mb-3">
 						<ChannelCard
-							imgSrc="/img/s1.jpg"
+							imgSrc="img/s1.jpg"
 							views="1.4M"
 							channelName="Channel Name"
 							subscriberCount="382,323"
@@ -119,7 +54,72 @@ const ChannelList = () => {
 					</Col>
 					<Col xl={3} sm={6} className="mb-3">
 						<ChannelCard
-							imgSrc="/img/s1.jpg"
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							verified
+							isSubscribed
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
+							views="1.4M"
+							channelName="Channel Name"
+							subscriberCount="382,323"
+							outline
+						/>
+					</Col>
+					<Col xl={3} sm={6} className="mb-3">
+						<ChannelCard
+							imgSrc="img/s1.jpg"
 							views="1.4M"
 							channelName="Channel Name"
 							subscriberCount="382,323"

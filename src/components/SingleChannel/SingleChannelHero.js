@@ -5,13 +5,13 @@ export default function SingleChannelHero() {
 				<img
 					className="img-fluid"
 					alt=""
-					src="/img/channel-banner.jpg"
+					src="img/channel-banner.jpg"
 				/>
 				<div className="channel-profile">
 					<img
 						className="channel-profile-img"
 						alt=""
-						src="/img/s2.jpg"
+						src="img/s2.jpg"
 					/>
 					<div className="social hidden-xs">
 						Social &nbsp;

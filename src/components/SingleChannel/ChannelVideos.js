@@ -16,7 +16,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -28,7 +28,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -40,7 +40,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -51,19 +51,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
-							time="3:50"
-							videoTitle="There are many variations of passages of Lorem"
-							videoCategory="Education"
-							views="1.8M"
-							timeAgo="11 months"
-							verified
-						/>
-					</Col>
-
-					<Col xl={3} sm={6} className="mb-3">
-						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -75,7 +63,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -87,18 +75,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
-							time="3:50"
-							videoTitle="There are many variations of passages of Lorem"
-							videoCategory="Education"
-							views="1.8M"
-							timeAgo="11 months"
-						/>
-					</Col>
-
-					<Col xl={3} sm={6} className="mb-3">
-						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -110,7 +87,18 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
+							time="3:50"
+							videoTitle="There are many variations of passages of Lorem"
+							videoCategory="Education"
+							views="1.8M"
+							timeAgo="11 months"
+						/>
+					</Col>
+
+					<Col xl={3} sm={6} className="mb-3">
+						<VideoCard
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -122,7 +110,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -134,7 +122,19 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
+							time="3:50"
+							videoTitle="There are many variations of passages of Lorem"
+							videoCategory="Education"
+							views="1.8M"
+							timeAgo="11 months"
+							verified
+						/>
+					</Col>
+
+					<Col xl={3} sm={6} className="mb-3">
+						<VideoCard
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
@@ -145,7 +145,7 @@ const ChannelVideos = () => {
 
 					<Col xl={3} sm={6} className="mb-3">
 						<VideoCard
-							imgSrc="/img/v4.jpg"
+							imgSrc="img/v4.jpg"
 							time="3:50"
 							videoTitle="There are many variations of passages of Lorem"
 							videoCategory="Education"
