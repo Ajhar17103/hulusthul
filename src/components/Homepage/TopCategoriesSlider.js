@@ -86,17 +86,17 @@ export default function TopCategoriesSlider() {
 			<Slider {...settings}>
 				<Slide
 					href="#"
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Your Life"
 					views="74,853"
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Unboxing Cool"
 					views="74,853"
 				/>
 				<Slide
-					imgSrc="/img/s1.jpg"
+					imgSrc="img/s1.jpg"
 					label="Service Reviewing"
 					views="74,853"
 				/>
