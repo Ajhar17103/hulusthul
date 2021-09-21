@@ -1,12 +1,8 @@
-import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
-import ThinFooter from "../Footer/ThinFooter";
 import SectionHeader from "../Atomics/SectionHeader/SectionHeader";
-import ContentWrapper from "../Atomics/ContentWrapper/ContentWrapper";
-import ShopCart from './ShopCard'
-import Paginate from "../Atomics/Paginate/Paginate";
+import ShopCart from "../Shop/ShopCard";
 
 const products=[
 	{
@@ -76,23 +72,16 @@ const products=[
 	src:"img/product.png",
 },
 ]
- 
 
-const Shop = () => {
-	
+export default function HomeShop() {
 	return (
 		<>
-			<ContentWrapper>
-				<Container fluid>
-					<div className="video-block section-padding">
-						<Row>
-                        <Col md={12}>
-								<SectionHeader heading="Shop" />
-							</Col>
-                            
-								
-
-								  {
+			<div className="video-block section-padding ">
+				<Row>
+					<Col md={12}>
+						<SectionHeader heading="Shop" />
+					</Col>
+                    {
 								 
 								 products.map((product)=>(
 
@@ -105,15 +94,9 @@ const Shop = () => {
 									  </Col>
 
 								  ))} 
-								
-						</Row>
-					</div>
-					<Paginate />
-				</Container>
-				<ThinFooter />
-			</ContentWrapper>
+				 
+				</Row>
+			</div>
 		</>
 	);
-};
-
-export default Shop;
+}

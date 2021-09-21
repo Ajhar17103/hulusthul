@@ -1,6 +1,6 @@
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-
+import './VideoPage.css'
 import VideoCardList from "./VideoCardList";
 import SectionHeader from "../Atomics/SectionHeader/SectionHeader";
 

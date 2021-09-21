@@ -8,10 +8,12 @@ const SingleVideoLeft = () => {
 	return (
 		<>
 			<div className="single-video-left">
+				 
 				<VideoTitle
 					title="Contrary to popular belief, Lorem Ipsum (2020) is
 							not."
 					views="2,729,347"
+					
 				/>
 
 				<AuthorBox

@@ -13,7 +13,7 @@ function TopCategory() {
 				<Row>
 					<Col md={12}>
 						<SectionHeader
-							heading="Channels Categories"
+							heading="Product Categories"
 							noIconLabel
 							icon={faEllipsisH}
 						/>

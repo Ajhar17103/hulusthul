@@ -108,8 +108,7 @@ function Content(props) {
 						<Route exact path="/shop">
 						 <Shop/>
 						</Route>
-						<Route exact path="/video-page">
-						 
+						<Route exact path="/video-show">
 						 <VideoPage/>
 						</Route>
 

@@ -5,9 +5,11 @@ import TopMobileSearch from "./TopMobileSearch";
 import TopCategory from "./TopCategory";
 import VideoBlock from "./VideoBlock";
 import PopularChannels from "./PopularChannels";
-
+ 
 import FatFooter from "../Footer/FatFooter";
 import ContentWrapper from "../Atomics/ContentWrapper/ContentWrapper";
+import Shop from "../Shop/Shop";
+import HomeShop from "./shop";
 
 const Homepage = () => {
 	return (
@@ -19,7 +21,11 @@ const Homepage = () => {
 					<hr />
 					<VideoBlock />
 					<hr className="mt-0" />
-					<PopularChannels />
+					
+				 <HomeShop/>
+				 <hr className="mt-0" />
+				 <PopularChannels />
+				 
 				</Container>
 
 				<FatFooter />

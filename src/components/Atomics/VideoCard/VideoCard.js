@@ -7,16 +7,16 @@ import {
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle, faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
-import {Link} from "react-router-dom"
+import {Link} from 'react-router-dom'
 
 function VideoCard({
-	iconHref = "/video-page",
-	imgHref = "#",
+	iconHref = "/video-show",
+	imgHref = "/video-show",
 	imgSrc,
 	imgAlt = "",
 	time = "-:-",
-	videoTitle = "#",
-	videoTitleHref,
+	videoTitle = "/video-show",
+	videoTitleHref="/video-show",
 	views,
 	timeAgo,
 	videoCategory,
@@ -29,14 +29,14 @@ function VideoCard({
 					<Link className="play-icon" to={iconHref}>
 						<FontAwesomeIcon icon={faPlayCircle} />
 					</Link>
-					<a href={imgHref}>
+					<Link to={imgHref}>
 						<img className="img-fluid" src={imgSrc} alt={imgAlt} />
-					</a>
+					</Link>
 					<div className="time">{time}</div>
 				</div>
 				<div className="video-card-body">
 					<div className="video-title">
-						<a href={videoTitleHref}>{videoTitle}</a>
+						<Link to={videoTitleHref}>{videoTitle}</Link>
 					</div>
 					<div
 						className={

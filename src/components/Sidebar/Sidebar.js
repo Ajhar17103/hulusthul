@@ -31,51 +31,8 @@ const Sidebar = ({ props }) => {
 				<NavItem href="/" faIcon={faHome} label="Home" active />
 				<NavItem href="/channels" faIcon={faUsers} label="Channels" />
 
-				<NavItem
-					href="/single-channel"
-					faIcon={faUserAlt}
-					label="Single Channel"
-				/>
-				<NavItem
-					href="/video-page"
-					faIcon={faVideo}
-					label="Video Page"
-				/>
-				<NavItem
-					href="/upload-video"
-					faIcon={faCloudUploadAlt}
-					label="Upload Video"
-				/>
-
-			
-
-				<NavItem
-					href="/history"
-					faIcon={faFolder}
-					label="History Page"
-				/>
-
-				<NavDropdown
-					title={
-						<>
-							<FontAwesomeIcon icon={faListAlt} fixedWidth />{" "}
-							<span>Categories</span>
-						</>
-					}
-				>
-					<Link to="/categories" className="dropdown-item">
-						Movie
-					</Link>
-
-					<Link to="/categories" className="dropdown-item">
-						Music
-					</Link>
-
-					<Link to="/categories" className="dropdown-item">
-						Television
-					</Link>
-				</NavDropdown>
-
+				 
+			 
 				<NavItem
 					href="/Shop"
 					faIcon={faShoppingBag}

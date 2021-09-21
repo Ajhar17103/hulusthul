@@ -6,6 +6,7 @@ import InputGroup from "react-bootstrap/InputGroup";
 import Col from "react-bootstrap/Col";
 import FormControl from "react-bootstrap/FormControl";
 import Button from "react-bootstrap/Button";
+import {Link} from "react-router-dom"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -24,13 +25,13 @@ const FatFooter = () => {
 						<Row>
 							<Col lg={3} md={3}>
 								<div className="footer-logo">
-									<a className="logo" href="index.html">
+									<Link className="logo" to="/">
 										<img
 											alt=""
-											src="/img/logo.png"
+											src="img/logo.png"
 											className="img-fluid"
 										/>
-									</a>
+									</Link>
 								</div>
 								<p>
 								476/C, Malibag DIT Road, Dhaka- 1219
@@ -54,7 +55,7 @@ const FatFooter = () => {
 									</a>
 								</p>
 								<p className="mb-0">
-									<a href="#" className="text-dark">
+									<a href="/" className="text-dark">
 										<FontAwesomeIcon
 											icon={faGlobe}
 											fixedWidth

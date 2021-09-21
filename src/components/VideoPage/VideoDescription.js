@@ -19,14 +19,7 @@ export default function VideoDescription() {
 				/>
 				
 
-				<TagCloud heading="Tags">
-					<Tag name="Uncharted 0" />
-					<Tag name="Playstation 4" />
-					<Tag name="Gameplay" />
-					<Tag name="1080P" />
-					<Tag name="ps4Share" />
-					<Tag name="+ 6" lastChild />
-				</TagCloud>
+			 
 			</div>
 		</>
 	);

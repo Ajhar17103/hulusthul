@@ -25,10 +25,10 @@ const ThinFooter = () => {
 						<Col lg={6} sm={6} className="text-right">
 							<div className="app">
 								<a href="#" className="mr-1">
-									<img alt="" src="/img/google.png" />
+									<img alt="" src="img/google.png" />
 								</a>
 								<a href="#">
-									<img alt="" src="/img/apple.png" />
+									<img alt="" src="img/apple.png" />
 								</a>
 							</div>
 						</Col>
