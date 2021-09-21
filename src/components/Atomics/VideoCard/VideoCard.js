@@ -8,6 +8,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle, faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 import {Link} from 'react-router-dom'
 import ProductCard from "./ProductCard";
+import ProductSlide from "./ProudctSlide";
 
 function VideoCard({
 	iconHref = "/video-show",
@@ -55,12 +56,9 @@ function VideoCard({
 					<hr/>
 					<div style={{  margin:'5px 0px'}}>
 					<Row>
-                      <Col xl={6} sm={3} md={6} lg={6} className="mb-3">
-                      <ProductCard/>
-					  </Col>
-					  <Col xl={6} sm={6} md={6} lg={6} className="mb-3">
-                      <ProductCard/>
-					  </Col>
+                       <Col>
+					   <ProductSlide/>
+					   </Col>
 					  </Row>
 					</div>
 				</div>
