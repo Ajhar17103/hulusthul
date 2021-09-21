@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hulusthul/static/css/main.e9a838ca.chunk.css",
-    "main.js": "/hulusthul/static/js/main.6505293b.chunk.js",
-    "main.js.map": "/hulusthul/static/js/main.6505293b.chunk.js.map",
+    "main.css": "/hulusthul/static/css/main.c3c2defd.chunk.css",
+    "main.js": "/hulusthul/static/js/main.2bcd4a2f.chunk.js",
+    "main.js.map": "/hulusthul/static/js/main.2bcd4a2f.chunk.js.map",
     "runtime-main.js": "/hulusthul/static/js/runtime-main.1880b5d1.js",
     "runtime-main.js.map": "/hulusthul/static/js/runtime-main.1880b5d1.js.map",
     "static/css/2.387dfde2.chunk.css": "/hulusthul/static/css/2.387dfde2.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.a8af7a54.chunk.js.map": "/hulusthul/static/js/3.a8af7a54.chunk.js.map",
     "index.html": "/hulusthul/index.html",
     "static/css/2.387dfde2.chunk.css.map": "/hulusthul/static/css/2.387dfde2.chunk.css.map",
-    "static/css/main.e9a838ca.chunk.css.map": "/hulusthul/static/css/main.e9a838ca.chunk.css.map",
+    "static/css/main.c3c2defd.chunk.css.map": "/hulusthul/static/css/main.c3c2defd.chunk.css.map",
     "static/js/2.cc48173e.chunk.js.LICENSE.txt": "/hulusthul/static/js/2.cc48173e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/hulusthul/static/media/fa-solid-900.2aae7c21.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1880b5d1.js",
     "static/css/2.387dfde2.chunk.css",
     "static/js/2.cc48173e.chunk.js",
-    "static/css/main.e9a838ca.chunk.css",
-    "static/js/main.6505293b.chunk.js"
+    "static/css/main.c3c2defd.chunk.css",
+    "static/js/main.2bcd4a2f.chunk.js"
   ]
 }

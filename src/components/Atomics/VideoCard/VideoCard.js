@@ -1,10 +1,9 @@
 import "./VideoCard.css";
-
 import {
 	VerifiedTooltip,
 	UnverifiedTooltip,
 } from "../CustomCheckTooltips/CustomCheckTooltips";
-
+import {Row,Col} from "react-bootstrap"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle, faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 import {Link} from 'react-router-dom'
@@ -55,7 +54,14 @@ function VideoCard({
 					</div>
 					<hr/>
 					<div style={{  margin:'5px 0px'}}>
+					<Row>
+                      <Col xl={6} sm={3} md={6} lg={6} className="mb-3">
                       <ProductCard/>
+					  </Col>
+					  <Col xl={6} sm={6} md={6} lg={6} className="mb-3">
+                      <ProductCard/>
+					  </Col>
+					  </Row>
 					</div>
 				</div>
 			</div>
