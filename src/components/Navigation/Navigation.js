@@ -65,7 +65,7 @@ const Navigation = ({ props }) => {
 				&nbsp;&nbsp;
 				<Navbar.Brand className="mr-1">
 					<Link to="/">
-						<img className="img-fluid" src="/img/logo.jpg" alt="" style={{width:'150px'}} />
+						<img className="img-fluid" src="img/logo.png" alt="" style={{width:'150px'}} />
 					</Link>
 				</Navbar.Brand>
 				{/* Navbar Search*/}
