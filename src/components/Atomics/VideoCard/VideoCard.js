@@ -8,6 +8,7 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle, faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 import {Link} from 'react-router-dom'
+import ProductCard from "./ProductCard";
 
 function VideoCard({
 	iconHref = "/video-show",
@@ -51,6 +52,10 @@ function VideoCard({
 					<div className="video-view">
 						{views} views &nbsp;
 						<FontAwesomeIcon icon={faCalendarAlt} /> {timeAgo} ago
+					</div>
+					<hr/>
+					<div style={{  margin:'5px 0px'}}>
+                      <ProductCard/>
 					</div>
 				</div>
 			</div>
